@@ -1,2 +1,1 @@
-# HTML_Session_2Assignment_4
-HTML_Session_2Assignment_4
+Design a HTML blog
